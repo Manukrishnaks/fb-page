@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: aliceblue;
+}
+.column-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+    justify-content: center;
+}
+.overview h1{
+    color: #1877f2;
+    font-size: 50px;
+    margin-bottom: 0; 
+
+}
+.overview p{
+font-size: 24px;
+max-width: 410px;
+margin-top: 10px;
+}
